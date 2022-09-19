@@ -8,4 +8,3 @@ To answer a question simply click any of the buttons
 In the end result page, you may press the "Restart Quiz" button to start over
 
 ![image](https://user-images.githubusercontent.com/113607198/190422917-4e23126a-948e-46d7-bece-a587440d48a9.png)
->>>>>>> 5135a6ea422caf42721b60b430e85d876f25bdf3
